@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "Start/Start.sln",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Default Light Modern",
+    "editor.rulers": [80]
+}

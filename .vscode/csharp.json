@@ -1,0 +1,15 @@
+{
+    "Print ConsoleWriteLine()": {
+        "prefix": "cw",
+        "body": [
+            "Console.WriteLine($0);"
+        ],
+        "description": "Print line of code"
+    },
+    "toString": {
+        "prefix": "toString",
+        "body": [
+            "public override string ToString() { return $\"\"; }"
+        ]
+    }
+}
