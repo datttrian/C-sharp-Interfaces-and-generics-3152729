@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingInterfaces", "Ch02\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInterfaces", "Ch02\MultipleInterfaces\MultipleInterfaces.csproj", "{250BD948-ACEC-4A5E-BD01-30E97EB85999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterfaces", "Ch02\ExplicitInterfaces\ExplicitInterfaces.csproj", "{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{250BD948-ACEC-4A5E-BD01-30E97EB85999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250BD948-ACEC-4A5E-BD01-30E97EB85999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{250BD948-ACEC-4A5E-BD01-30E97EB85999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,5 +43,6 @@ Global
 		{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
 		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
 		{250BD948-ACEC-4A5E-BD01-30E97EB85999} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
+		{03EDC4C2-BBAB-4049-9520-A1D3FA8135D1} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
 	EndGlobalSection
 EndGlobal
