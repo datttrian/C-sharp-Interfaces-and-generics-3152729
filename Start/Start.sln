@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch02", "Ch02", "{53C7BBC4-8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInterfaces", "Ch02\BasicInterfaces\BasicInterfaces.csproj", "{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingInterfaces", "Ch02\CastingInterfaces\CastingInterfaces.csproj", "{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3B5F213A-74A6-41BF-B2CF-DE277E5E7A7F} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
+		{1017C6A2-A14B-4E6C-AFC9-2E490E013BF9} = {53C7BBC4-8291-4A57-BDAF-8E572D7C3D5C}
 	EndGlobalSection
 EndGlobal
