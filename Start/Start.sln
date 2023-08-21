@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksQueues", "Ch03\Stacks
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Ch03\Dictionaries\Dictionaries.csproj", "{3B651373-EFBA-444F-9142-BDA26673DAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenChallengeSolution", "Ch03\GenChallengeSolution\GenChallengeSolution.csproj", "{F9BC71E2-0AB3-4C3D-8260-3A474DC68023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{3B651373-EFBA-444F-9142-BDA26673DAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B651373-EFBA-444F-9142-BDA26673DAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B651373-EFBA-444F-9142-BDA26673DAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BC71E2-0AB3-4C3D-8260-3A474DC68023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BC71E2-0AB3-4C3D-8260-3A474DC68023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BC71E2-0AB3-4C3D-8260-3A474DC68023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BC71E2-0AB3-4C3D-8260-3A474DC68023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,5 +94,6 @@ Global
 		{AB475DD9-4E64-400C-90B0-B25083B3ADE1} = {732F51F5-66A9-4005-92EB-C417B571927D}
 		{ADDFA457-0DEE-4F4D-89F0-3A7C84AAD8B3} = {732F51F5-66A9-4005-92EB-C417B571927D}
 		{3B651373-EFBA-444F-9142-BDA26673DAE7} = {732F51F5-66A9-4005-92EB-C417B571927D}
+		{F9BC71E2-0AB3-4C3D-8260-3A474DC68023} = {732F51F5-66A9-4005-92EB-C417B571927D}
 	EndGlobalSection
 EndGlobal
